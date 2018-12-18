@@ -1,0 +1,11 @@
+.listsGrid{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/* .editItemForm{
+    position: absolute ;
+    left: 0%;
+   
+} */
